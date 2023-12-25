@@ -26,6 +26,6 @@ I'm a MSE Aerospace graduate from the [University of Michigan](https://aero.engi
 
 At present, I am working as a Research Associate in the [Computational Aerosciences Lab](https://caslab.engin.umich.edu/) headed by [Dr. Karthik Duraiamy](https://aero.engin.umich.edu/people/duraisamy-karthik/). My project is in collaboration with Ford Motors and involves multi-fidelity modeling and active learning. 
 
-Prior to joing UMich, I was a Project Assitant at the Autonomous Systems Lab, [Indian Institute of Science](https://iisc.ac.in/), led by [Dr. Ashwini Ratno](https://aero.iisc.ac.in/people/ashwini-ratnoo/). I worked on pseudspectral-collocation based trajectory optimization solver for range and reachability analysis of hypersonic re-entry vehicles. 
+Prior to joing UMich, I was a Project Assitant at the Autonomous Systems Lab, [Indian Institute of Science](https://iisc.ac.in/), led by [Dr. Ashwini Ratnoo](https://aero.iisc.ac.in/people/ashwini-ratnoo/). I worked on pseudspectral-collocation based trajectory optimization solver for range and reachability analysis of hypersonic re-entry vehicles. 
 
 I completed my B.Tech in Aerospace Engineering with a minor in Control Systems at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I was advised by [Dr. Ranjith Mohan](https://raftlab.iitm.ac.in/md/ranj.html) for my Bachelor's project on optimal control applied to satellite rendezvous problem. 
